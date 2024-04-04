@@ -13,9 +13,8 @@ I'm h-alice, a computer scientist, opensource developer. 🚀
 
 ### 💼 Capabilities:
 - **Languages:** *Almost* all commonly used languages, expert in Python, C++ and GoLang.
-- **Frameworks & Libraries:** React.js, Node.js, TensorFlow
-- **Databases:** SQL, MongoDB
-- **Tools & Platforms:** Git, Docker, AWS
+- **Frameworks & Libraries:** Pytorch, TensorFlow
+- **Tools & Platforms:** Git, Docker, Linux-based server managements
 
 ### 📫 Connect with me:
 - 🌐 Website: [halice.art](https://halice.art)
