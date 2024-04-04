@@ -1,6 +1,38 @@
-# Hi I'm h-alice 👋
+# Hi I'm h-alice
 
+👋 **Hello there!**
 
+I'm h-alice, a computer scientist, opensource developer. 🚀
+
+### 🌱 Interests:
+- Artificial Intelligence & Machine Learning
+- Cryptography & Number Theory
+- Geometry, Algebra and other Mathematics stuff.
+- Some **very cool** stuff like String Theory, Quantum Computing.
+- Opensource projects and contributing to the community.
+
+### 💼 Capabilities:
+- **Languages:** *Almost* all commonly used languages, expert in Python, C++ and GoLang.
+- **Frameworks & Libraries:** React.js, Node.js, TensorFlow
+- **Databases:** SQL, MongoDB
+- **Tools & Platforms:** Git, Docker, AWS
+
+### 📫 Connect with me:
+- 🌐 Website: [halice.art](https://halice.art)
+- 📧 Email: admin@halice.art
+- 🐦 Twitter: [@halice_art](https://twitter.com/halice_art)
+
+### 🌟 Highlighted Projects
+
+### 💬 Languages:
+- Mandarin (Native)
+- English (Fluent)
+- Japanese (Intermediate)
+- Binary (*4E 61 74 69 76 65*)
+
+Oh, I also do doujin arts, I bet you can't find me.
+
+# GitHub Stats
 
 ![h-alice's GitHub stats](https://github-readme-stats.vercel.app/api?username=h-alice&show_icons=true&theme=neon&show=reviews)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h-alice&size_weight=0.5&count_weight=1.5&layout=compact&theme=neon&card_width=467)
@@ -13,9 +45,9 @@
 
 ![sqrt](assets/sqrt.jpg)
 
-![stop-doing-math](assets/stop-doing-math.png)
-The compound-of-five-cubes is just too cute.
-
 ![math-in-a-nutshell](assets/math-in-a-nutshell.webp)
 
 ![group-theory](assets/group.jpeg)
+
+![stop-doing-math](assets/stop-doing-math.png)
+The compound-of-five-cubes is just too cute.
