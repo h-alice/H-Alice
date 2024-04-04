@@ -5,11 +5,12 @@
 I'm h-alice, a computer scientist, opensource developer. 🚀
 
 ### 🌱 Interests:
-- Artificial Intelligence & Machine Learning
-- Cryptography & Number Theory
-- Geometry, Algebra and other Mathematics stuff.
-- Some **very cool** stuff like String Theory, Quantum Computing.
-- Opensource projects and contributing to the community.
+- 🤖 Artificial Intelligence & Machine Learning
+- 🔐 Cryptography & Number Theory
+- 📐 Geometry, Algebra and other Mathematics stuff.
+- 🌀 Some **very cool** stuff like String Theory, Quantum Computing.
+- 🌟 Opensource projects and contributing to the community.
+
 
 ### 💼 Capabilities:
 - **Languages:** *Almost* all commonly used languages, expert in Python, C++ and GoLang.
