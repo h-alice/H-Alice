@@ -49,5 +49,5 @@ Oh, I also do doujin arts, I bet you can't find me.
 
 ![group-theory](assets/group.jpeg)
 
-![stop-doing-math](assets/stop-doing-math.png)
+![stop-doing-math](assets/stop-doing-math.png)  
 The compound-of-five-cubes is just too cute.
