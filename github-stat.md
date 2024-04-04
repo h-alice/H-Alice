@@ -1,1 +1,2 @@
-![h-alice's GitHub stats](https://github-readme-stats.vercel.app/api?username=h-alice&show_icons=true&theme=radical&show=reviews)
+![h-alice's GitHub stats](https://github-readme-stats.vercel.app/api?username=h-alice&show_icons=true&theme=neon&show=reviews)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h-alice&size_weight=0.5&count_weight=1.5&layout=compact&theme=neon&card_width=467)
