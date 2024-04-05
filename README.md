@@ -8,7 +8,7 @@ I'm h-alice, a computer scientist, opensource developer. 🚀
 - 🤖 Artificial Intelligence & Machine Learning
 - 🔐 Cryptography & Number Theory
 - 📐 Geometry, Algebra and other Mathematics stuff.
-- 🌀 Some **very cool** stuff like String Theory, Quantum Computing.
+- 🌀 Some ***super cool*** stuff like String Theory, Quantum Mechanics.
 - 🌟 Opensource projects and contributing to the community.
 
 
@@ -23,6 +23,12 @@ I'm h-alice, a computer scientist, opensource developer. 🚀
 - 🐦 Twitter: [@halice_art](https://twitter.com/halice_art)
 
 ### 🌟 Highlighted Projects
+
+### [Image Batch Processor](https://github.com/h-alice/golang-image-processing)
+A simple image processing tool written in GoLang, which can process images in batch.
+
+It is designed for processing my one artwork at first, we are now expanding it to a more general-purpose tool.
+
 
 ### 💬 Languages:
 - Mandarin (Native)
