@@ -22,14 +22,7 @@ I'm h-alice, a computer scientist, opensource developer. 🚀
 - 📧 Email: admin@halice.art
 - 🐦 Twitter: [@halice_art](https://twitter.com/halice_art)
 
-### 🌟 Highlighted Projects
-
-### [Image Batch Processor](https://github.com/h-alice/golang-image-processing)
-A simple image processing tool written in GoLang, which can process images in batch.
-
-It is designed for processing my one artwork at first, we are now expanding it to a more general-purpose tool.
-
-I'm also a doujin illustrator.
+I'm also a doujin art illustrator.
 
 # GitHub Stats
 
