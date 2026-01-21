@@ -28,4 +28,4 @@ I'm also a doujin art illustrator.
 # GitHub Stats
 
 ![h-alice's GitHub stats](https://github-readme-stats.vercel.app/api?username=h-alice&show_icons=true&theme=neon&show=reviews)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h-alice&size_weight=0.5&count_weight=1.5&layout=compact&theme=neon&card_width=467)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h-alice&theme=nightowl&show_icons=true&hide=jupyter%20notebook&hide_border=false&layout=compact&card_width=467)
